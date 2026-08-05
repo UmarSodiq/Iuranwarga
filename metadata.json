@@ -1,0 +1,6 @@
+{
+  "name": "Pencatatan Iuran Warga",
+  "description": "Aplikasi pencatatan iuran bulanan warga RT 01, RT 02, RT 03 dengan perhitungan otomatis dan rangkuman total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

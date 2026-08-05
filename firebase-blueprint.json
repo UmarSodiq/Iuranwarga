@@ -1,0 +1,21 @@
+{
+  "collections": [
+    {
+      "name": "citizens",
+      "description": "Stores citizen information and payment records",
+      "fields": [
+        { "name": "name", "type": "string" },
+        { "name": "rt", "type": "string" },
+        { "name": "payments", "type": "map" }
+      ]
+    },
+    {
+      "name": "rtConfigs",
+      "description": "Stores RT configuration like monthly fee",
+      "fields": [
+        { "name": "id", "type": "string" },
+        { "name": "monthlyFee", "type": "number" }
+      ]
+    }
+  ]
+}
